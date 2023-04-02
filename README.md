@@ -4,7 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-## H1
+## Much ablog about nothing
+write some text here  
+write some more text here
 
 ## License
 
