@@ -5,7 +5,7 @@ Welcome to Much ablog about nothing. Culural rambings from a man of yore
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href={{ post.date | date: "%Y/%m/%d"}} <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%Y/%m/%d"}} <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
