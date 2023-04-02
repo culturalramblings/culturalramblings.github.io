@@ -1,4 +1,7 @@
-theme: jekyll-feed
+theme: jekyll-theme-minimal
+plugins:
+ - jekyll-feed
+ 
 title: Much ablog about nothing
 description: Cultural Ramblings from a man of yore
   
